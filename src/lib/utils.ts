@@ -59,3 +59,4 @@ export const SUPPORTED_LANGUAGES = [
   { label: 'Bash / Shell', value: 'bash' },
   { label: 'YAML', value: 'yaml' },
 ];
+

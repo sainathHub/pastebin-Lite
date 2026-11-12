@@ -37,3 +37,4 @@ export interface CreatePasteResponse {
   max_views: number | null;
   remaining_views: number | null;
 }
+
